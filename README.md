@@ -1,5 +1,5 @@
 # Codes for demonstrating parameterization of a soil-explicit PSF model from simulated data
-## Manusciprt titled "Challenges in linking plant-soil feedbacks to community structure" has further details
+## Manuscript titled "Challenges in linking plant-soil feedbacks to community structure" has further details
 ## Authors: Athmanathan Senthilnathan, Po-Ju Ke, Xinyi Yan, Kerri Crawford, Rafael D'Andrea
 
 ## Files
